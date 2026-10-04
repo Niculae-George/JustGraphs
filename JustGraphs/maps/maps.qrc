@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/maps">
+        <file alias="hartaLuxembourg.xml">hartaLuxembourg.xml</file>
+    </qresource>
+</RCC>
