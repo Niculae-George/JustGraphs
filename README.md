@@ -198,6 +198,3 @@ Read-only graph access and editing use separate interfaces. Flow networks and ro
 Wall generation is separate from the Flood Fill page, so the UI only applies the generated grid.
 
 CMake discovers source files inside each module automatically. `cmake/` contains build and deployment helpers; `build.py` provides the guided installer.
-
-Keep app source, tests, map resources, build configuration/scripts, this README, and screenshots in the repository.
-Build folders, installed binaries, and IDE caches are generated locally and ignored.
